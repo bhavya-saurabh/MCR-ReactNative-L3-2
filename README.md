@@ -1,8 +1,3 @@
-# Mckinley & Rice React Coding Challenge
-
-> Welcome to the Mckinley & Rice Coding Challenge!
-
-
 ## Overview
 
 To complete this challenge, you will need to write a simple [React Native] app, and provide us the source files to be built.
